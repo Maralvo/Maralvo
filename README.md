@@ -2,7 +2,9 @@
 
 - 🔭 Amante de tecnologia!                  
 - 🌱 Eterno estudante na vida!
-- ⚡ Apaixonado por escrever, viajar e ler!
+- ⚡ Apaixonado por ler,escrever, viajar, praia, cachoeira...
+- 🎞  Adoro filmes, séries, teatros, musicais
+- 🎶 MPB, Rock, Jazz, Pop rock, Funk, Blue, Soul
 
   ![capa2](https://user-images.githubusercontent.com/35399145/189922796-5ab06e80-0c41-4764-a4cb-1febd91ec1e8.jpg)
   
@@ -31,7 +33,8 @@
   <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
 
 </div>
   
@@ -42,6 +45,7 @@
   <a href="https://www.linkedin.com/in/marcos-alvarenga-2bb75015/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="tel:+5584999887008"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/Maralvo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/maralvo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
