@@ -68,15 +68,20 @@
 
 </div>
   
-  ##Contatos Redes Sociais
+  ##🤜🤛 Group
   
 <div>
+    <a href="https://discord.com/channels/@MarcosAlvarenga#8820/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+  ##👨 Social
   <a href="mailto:marcosalv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-alvarenga-2bb75015/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="tel:+5584999887008"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/Maralvo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.instagram.com/maralvo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.com/channels/@MarcosAlvarenga#8820/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-
+  <a href="https://independent.academia.edu/MarcosAlvarenga16"><img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black"></a>
+  <a href="https://independent.academia.edu/MarcosAlvarenga16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://gitlab.com/marcosalv"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  </div>
