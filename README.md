@@ -73,8 +73,7 @@
   
   👨 Social
   <div>
-    
-  <a href="mailto:marcosalv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="mailto:marcosalv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-alvarenga-2bb75015/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="tel:+5584999887008"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/Maralvo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -86,22 +85,20 @@
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
   </div>
-  
-  📝 Blog
+   📝 Blog
   <div>
-    <a href="https://projetolivropostal.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+    <a href="https://projetolivropostal.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white</a>
   </div>
-      
       ☁ Cloud
       <div>
-      https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
-      https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white
-      https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
-      https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black
+       <a href="https://dash.cloudflare.com/profile"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"</a>
+      <a href=""><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"</a>
+      <a href=""><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"</a>
+      <a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"</a>
       </div>
-   
-    <div>
+    
    🖍 Design
+    <div>
       https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white
       https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
    </div>
