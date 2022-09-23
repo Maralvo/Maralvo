@@ -64,16 +64,12 @@
 </div>
 
 </td></tr></table>  
-<div style="display: inline_block"><br>  
-  
-      ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  </div>
-  
+    
   🤜🤛 Group
   
-  <div align="center">  
+  <div>  
 
-    <a href="https://discord.com/channels/@MarcosAlvarenga#8820/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://discord.com/channels/@MarcosAlvarenga#8820/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a>
   </div>
   
   👨 Social
