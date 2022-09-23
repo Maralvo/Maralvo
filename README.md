@@ -64,13 +64,11 @@
 </div>
 
 </td></tr></table>  
-  ##
-  <br/>
+ 
+
   🤜🤛 Group
-  
-  <div> 
-    
-    <a href="https://discord.com/channels/@MarcosAlvarenga#8820/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a>
+    <div> 
+   <a href="https://discord.com/channels/@MarcosAlvarenga#8820/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   </div>
   
   👨 Social
