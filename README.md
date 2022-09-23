@@ -62,13 +62,14 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 </div>
-</td><td valign="top" width="33%">
+
 </td></tr></table>  
-    
+  ##
+  <br/>
   🤜🤛 Group
   
-  <div>  
-
+  <div> 
+    
     <a href="https://discord.com/channels/@MarcosAlvarenga#8820/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a>
   </div>
   
