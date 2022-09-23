@@ -83,45 +83,46 @@
   <a href="https://gitlab.com/marcosalv"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
+   </div>
+  
    📝 Blog
   <div>
-    <a href="https://projetolivropostal.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white</a>
+    <a href="https://projetolivropostal.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"</a>
   </div>
-      ☁ Cloud
+    <br>  
+ ☁ Cloud
       <div>
-       <a href="https://dash.cloudflare.com/profile"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"</a>
+      <a href="https://dash.cloudflare.com/profile"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"</a>
       <a href=""><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"</a>
       <a href=""><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"</a>
       <a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"</a>
       </div>
-    
+    <br>
    🖍 Design
     <div>
-      https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white
-      https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+     <a href=""><img src= "https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"
+                     https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"</a>
    </div>
-   
+   <br>
    📚 Education
    <div>
      https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
      https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white
      https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
    </div>
-   
+   <br>
    🌐 ETL
    <div>
      
    </div>
-
+<br>
    👩‍💻 IDE
     <div>
      	https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
       https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black
       https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
    </div>
-   
+   <br>
    👨‍💻 Office
      <div>
      https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white
@@ -134,7 +135,7 @@
        https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white
        	https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white
    </div>
-   
+   <br>
    ⚙️ ORM
      <div>
      https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
