@@ -47,6 +47,7 @@
   <a href="https://python.com/" target="_blank"><img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+ <a href="https://www.redis.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white height="50"/></a>  
 
 </div>
 
@@ -68,12 +69,14 @@
 
 </div>
   
-  ###🤜🤛 Group
+  🤜🤛 Group
   
 <div>
     <a href="https://discord.com/channels/@MarcosAlvarenga#8820/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-  ###👨 Social
+  👨 Social
+  <div>
+    
   <a href="mailto:marcosalv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-alvarenga-2bb75015/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="tel:+5584999887008"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
@@ -84,4 +87,64 @@
   <a href="https://gitlab.com/marcosalv"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- </div>
+ 
+  </div>
+  
+  📝 Blog
+  <div>
+    <a href="https://projetolivropostal.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+  </div>
+      
+      ☁ Cloud
+      <div>
+      https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
+      https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white
+      https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
+      https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black
+      </div>
+   
+    <div>
+   🖍 Design
+      https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white
+      https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+   </div>
+   
+   📚 Education
+   <div>
+     https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
+     https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white
+     https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
+   </div>
+   
+   🌐 ETL
+   <div>
+     
+   </div>
+
+   👩‍💻 IDE
+    <div>
+     	https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
+      https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black
+      https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
+   </div>
+   
+   👨‍💻 Office
+     <div>
+     https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white
+       https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white
+       https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
+       https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
+       https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white
+       https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
+       https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white
+       https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white
+       	https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white
+   </div>
+   
+   ⚙️ ORM
+     <div>
+     https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
+       https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white
+   </div>
+   
+    
