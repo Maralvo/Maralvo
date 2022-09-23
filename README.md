@@ -14,6 +14,7 @@
   <a href="https://github.com/emersoncarneirodasilva">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Maralvo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maralvo&layout=compact&langs_count=7&theme=blue-green" />
+  <img height="165em" src="https://starchart.cc/{username}/{repo}.svg" />
 </div>
 
   ## My Skill Set  
@@ -61,10 +62,13 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+  
 </div>
 
 </td></tr></table>  
- 
+  
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  </div>
 
   🤜🤛 Group
     <div> 
@@ -81,9 +85,7 @@
   <a href="https://independent.academia.edu/MarcosAlvarenga16"><img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black"></a>
   <a href="https://independent.academia.edu/MarcosAlvarenga16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://gitlab.com/marcosalv"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-   </div>
+     </div>
   
    📝 Blog
   <div>
@@ -113,7 +115,7 @@
    <br>
    🌐 ETL
    <div>
-       <a href=""><img src=""</a>
+       <a href=""><img src="	https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"</a>
    </div>
 <br>
    👩‍💻 IDE
