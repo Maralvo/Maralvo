@@ -68,12 +68,12 @@
 
 </div>
   
-  ##🤜🤛 Group
+  ###🤜🤛 Group
   
 <div>
     <a href="https://discord.com/channels/@MarcosAlvarenga#8820/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-  ##👨 Social
+  ###👨 Social
   <a href="mailto:marcosalv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-alvarenga-2bb75015/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="tel:+5584999887008"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
