@@ -10,17 +10,14 @@
   
   <!--![capalivrov2_Prancheta-1](https://user-images.githubusercontent.com/35399145/189956937-ff5e74c8-fd68-487b-8f36-d70d8a7665f6.jpg)-->
 
-
 <div align="center">
   <a href="https://github.com/emersoncarneirodasilva">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Maralvo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maralvo&layout=compact&langs_count=7&theme=blue-green" />
 </div>
 
-## My Skill Set  
+  ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -28,13 +25,11 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<img align="center" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-<img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<a href="https://www.wp.com/" target="_blank"><img style="margin: 10px" alt="WordPress" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50"/></a> 
+<a href="https://www.bootstrap.com/" target="_blank"><img align="center" alt="Bootstrap" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -69,9 +64,7 @@
 
 </td></tr></table>  
 <div style="display: inline_block"><br>  
-  
-  
-          
+             
 
 </div>
   
