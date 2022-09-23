@@ -11,11 +11,10 @@
   <!--![capalivrov2_Prancheta-1](https://user-images.githubusercontent.com/35399145/189956937-ff5e74c8-fd68-487b-8f36-d70d8a7665f6.jpg)-->
 
 <div align="center">
-  <a href="https://github.com/emersoncarneirodasilva">
+  <a href="https://github.com/Maralvo">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Maralvo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maralvo&layout=compact&langs_count=7&theme=blue-green" />
-  <img height="165em" src="https://starchart.cc/{username}/{repo}.svg" />
-</div>
+ </div>
 
   ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -115,7 +114,7 @@
    <br>
    🌐 ETL
    <div>
-       <a href=""><img src="	https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"</a>
+       <a href=""><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"</a>
    </div>
 <br>
    👩‍💻 IDE
